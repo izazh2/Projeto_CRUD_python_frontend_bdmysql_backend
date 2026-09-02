@@ -17,6 +17,8 @@ class Pessoa(Base):
     bairro = Column(String(20))
     cidade = Column(String(70))
     uf = Column(String(2))
+
+
     
     
    
